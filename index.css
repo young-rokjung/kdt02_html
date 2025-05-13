@@ -1,0 +1,34 @@
+header, main, footer{
+  margin-left : 10%;
+  width : 80%;
+  border : 1px solid blue;
+  margin-top : 10px;
+
+}
+
+
+header {
+    display: flex;
+    justify-content: center;
+    background-color: blue;  
+    color: aliceblue; 
+}
+
+body {
+    background-color: white;
+    color:black;
+
+}
+
+
+
+footer > a {
+    text-decoration: none;  
+    margin: 0,5px;
+    padding : 5px, 10px;
+    background-color: blue;
+    border-radius: 5px;
+    color: white ;
+
+}
+
